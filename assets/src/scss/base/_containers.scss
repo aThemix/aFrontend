@@ -1,0 +1,7 @@
+.container {
+	@include wrapper;
+}
+
+.container-fluid {
+	@include wrapper-full;
+}

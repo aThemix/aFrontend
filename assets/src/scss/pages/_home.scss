@@ -1,0 +1,5 @@
+.test {
+	width: 100px;
+
+	@include sm(width, 50px)
+}
